@@ -1,5 +1,4 @@
 Git is a version control system
 Git is free software
-:wq
-:qw
+I create a new branch named dev
 
